@@ -4,7 +4,7 @@
 > *Explainable AI (XAI) with Additive SHAP Waterfall Attribution, Counterfactual "What-If" Career Simulator & Printable CILP Placement Dossier.*
 
 [![GitHub Pages Live](https://img.shields.io/badge/GitHub_Pages-Live_Production-22c55e?style=for-the-badge&logo=githubpages&logoColor=white)](https://armaan-1207.github.io/tnp-shortlist-ai/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armaan-1207/tnp-shortlist-ai)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armaan-1207/03-tnp-shortlist-ai)
 [![Test Coverage](https://img.shields.io/badge/Test_Suite-13%2F13_Passing_(100%25)-10b981?style=for-the-badge&logo=vitest&logoColor=white)](https://armaan-1207.github.io/tnp-shortlist-ai/)
 [![WCAG 2.1 AA](https://img.shields.io/badge/Accessibility-WCAG_2.1_AA_Compliant-6366f1?style=for-the-badge&logo=w3c&logoColor=white)](https://armaan-1207.github.io/tnp-shortlist-ai/)
 [![Zero Backend Dependency](https://img.shields.io/badge/Security-100%25_Client--Side_Airgapped-3b82f6?style=for-the-badge&logo=shield&logoColor=white)](https://armaan-1207.github.io/tnp-shortlist-ai/)
@@ -12,9 +12,8 @@
 ---
 
 ## 🌐 Live Production Application
-- **Live URL (GitHub Pages):** [https://armaan-1207.github.io/tnp-shortlist-ai/](https://armaan-1207.github.io/tnp-shortlist-ai/)
-- **Alternative Production Host:** [https://03-tnp-shortlist-ai.vercel.app](https://03-tnp-shortlist-ai.vercel.app)
-- **Primary GitHub Repository:** [https://github.com/armaan-1207/tnp-shortlist-ai](https://github.com/armaan-1207/tnp-shortlist-ai)
+- **Live URL (Deployed Link):** [https://armaan-1207.github.io/tnp-shortlist-ai/](https://armaan-1207.github.io/tnp-shortlist-ai/)
+- **Primary GitHub Repository:** [https://github.com/armaan-1207/03-tnp-shortlist-ai](https://github.com/armaan-1207/03-tnp-shortlist-ai)
 
 ---
 
